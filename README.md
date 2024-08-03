@@ -11,7 +11,7 @@
 <div align="center">
 <img align="center" height="200px" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalord22&layout=compact&theme=merko&langs_count=10" />
 <img height="150" />
-<a href="https://github.com/shravanatirtha">
+<a href="https://github.com/Lalord22">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lalord22&theme=whatsapp-dark2" />
 </a>
 </div>
